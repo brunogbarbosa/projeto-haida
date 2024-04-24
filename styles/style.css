@@ -37,7 +37,6 @@ html {
     border-bottom: 1px solid #0B4F6C;
     padding: 6px 10px;
     transition: 0.7s;
-    
 }
 
 .header ul {
@@ -56,8 +55,7 @@ html {
     justify-content: space-between;
     text-align: center;
     font-family: poppinsregular;
-    /* background-color: #0b4f6c3d; */
-    background-color: #444;
+     background-color: #0b4f6c3d;
     color: #0B4F6C; 
  
 }
@@ -101,8 +99,7 @@ html {
     justify-content: space-around;
     align-items: center;
     text-align: center;
-     /*background-color: #0b4f6c3d;*/
-     background-color: #777;
+    background-color: #0b4f6c3d;
     font-family: poppinsregular;
     color: #0B4F6C;
     padding: 35px;
