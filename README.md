@@ -1,7 +1,11 @@
 # projeto-haida
-  Projeto Haida: Explorando Áreas da Tecnologia da Informação  O projeto Haida foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB).
+
+  align-center:"Projeto Haida" 
+  
+  Explorando Áreas da Tecnologia da Informação  O projeto Haida foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB).
   
   Este projeto tem como objetivo criar um site interativo chamado "Áreas da Tecnologia da Informação" para explorar e apresentar diversas áreas e subáreas dentro do vasto campo da tecnologia da informação.  
+ 
   Tecnologias Utilizadas: 
   
   HTML 
