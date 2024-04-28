@@ -87,6 +87,19 @@ body {
 }
 
 .txt-topicos h1 {
-    color: #ffeba7;;
-
+    color: #ffeba7;
 }
+
+.txt-topicos a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.txt-topicos a:hover {
+    text-decoration: underline;
+}
+
+#topicLink:visited {
+    color: #ffeba7; 
+}
+
