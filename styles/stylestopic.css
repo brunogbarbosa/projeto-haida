@@ -64,7 +64,8 @@ body {
     width: 450px;
 }
 
-.negrito {
+
+strong {
     font-weight: bold;
     color: #ffeba7;
 }
