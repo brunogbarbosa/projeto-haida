@@ -63,3 +63,8 @@ body {
 .image img {
     width: 450px;
 }
+
+.negrito {
+    font-weight: bold;
+    color: #ffeba7;
+}
